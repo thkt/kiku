@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+.kiku/
+*.db
+*.db-wal
+*.db-shm
